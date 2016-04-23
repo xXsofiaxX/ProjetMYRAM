@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LoginRegister.iml" filepath="$PROJECT_DIR$/LoginRegister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clenderview/clenderview.iml" filepath="$PROJECT_DIR$/clenderview/clenderview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialdesigntablayout/materialdesigntablayout.iml" filepath="$PROJECT_DIR$/materialdesigntablayout/materialdesigntablayout.iml" />
+    </modules>
+  </component>
+</project>
